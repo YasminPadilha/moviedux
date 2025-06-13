@@ -19,10 +19,10 @@ This is a React-based web app that lets users browse movies and add them to a pe
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/YasminPadilha/moviedux.git
 
 # Go into the project folder
-cd your-repo-name
+cd movieduxx
 
 # Install dependencies
 npm install
